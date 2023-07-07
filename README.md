@@ -1,2 +1,2 @@
 # Ecommerce_website
-a simple ecommerce website using html css and javascript
+a  ecommerce website using html css and javascript that include shop whatever you can and you can submit your feedback
